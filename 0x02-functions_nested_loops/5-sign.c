@@ -1,4 +1,4 @@
-#include " main.h"
+#include "main.h"
 /*
  * main - contains the prototype to be used
  * description:
