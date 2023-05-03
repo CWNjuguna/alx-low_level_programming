@@ -8,4 +8,7 @@ This is a readme file for the 0x05. C - Pointers, arrays and strings task.
 6. Half the lies they tell about me aren't true 
 7. Winning is only half of it. Having fun is the other half 
 8. Arrays are not pointers 
-9. strcpy 
+9. strcpy
+advanced
+10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers 
+11. Don't hate the hacker, hate the code  
