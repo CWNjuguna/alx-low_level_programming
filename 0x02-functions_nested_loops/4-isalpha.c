@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- *_is alpha - shows l if the input is a
- *letter  Another cases, shows 0
- * Return: l for letters. ) for the others
+ * description: _is alpha function checks for an alphabetic character 
+ * @c: is the character to be checked
+ * Return: l for letters, 0 for the others
  */
 int _isalpha(int c)
 {
