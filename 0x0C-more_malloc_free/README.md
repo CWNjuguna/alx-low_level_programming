@@ -10,3 +10,7 @@ Write a function that concatenates two strings.
 - Write a function that allocates memory for an array, using malloc.
 3. array_range
 - Write a function that creates an array of integers.
+4. _realloc
+- Write a function that reallocates a memory block using malloc and free
+5. We must accept finite disappointment, but never lose infinite hope
+- Write a program that multiplies two positive numbers.
