@@ -1,0 +1,20 @@
+#include <stdlib.h>
+#include "lists.h"
+
+/**
+ * list_len -this function returns the number of elements in a linked list
+ * @h: pointer to the list_t list
+ * return: the number of elements in h(list_len)
+ * description: function used to determine the length of a list
+ */
+size_t list_len(const list_t *h)
+{
+	size_t n = 0;
+
+	while (h)
+	{
+		n++;
+		h = h->next;
+	}
+	return (n);
+}
